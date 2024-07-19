@@ -14,7 +14,7 @@ public class Ex1 {
 		
 		System.out.println(calculator.substract(10, 5)); // 빼기
 		System.out.println(calculator.add(10, 5)); // 더하기
-		System.out.println(calculator.divide(10, 5)); // 나누기
+		System.out.println(calculator.divide(10, 5)); // 나누기  
 		System.out.println(calculator.times(10, 5)); // 곱하기
 	}
 
